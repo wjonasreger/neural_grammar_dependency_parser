@@ -10,15 +10,15 @@ Here's an example of predicting and evaluating the dependency tree of the senten
 
 Actual dependency tree:
 
-[]()
+![actual-dependency-tree](https://raw.githubusercontent.com/wjonasreger/neural_grammar_dependency_parser/main/images/gold_dep_tree.png)
 
 Predicted dependency tree:
 
-[]()
+[predicted-dependency-tree](https://raw.githubusercontent.com/wjonasreger/neural_grammar_dependency_parser/main/images/pred_dep_tree.png)
 
 Evaluated dependency tree:
 
-[]()
+[evaluated-dependency-tree](https://raw.githubusercontent.com/wjonasreger/neural_grammar_dependency_parser/main/images/diag_dep_tree.png)
 
 Unlabeled Attachment Score for this sentence: 100.0<br>
 Labeled Attachment Score for this sentence: 100.0 
